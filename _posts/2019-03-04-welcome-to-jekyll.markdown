@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to MapleSage!"
 date:   2019-03-04 13:27:59 +0530
 categories: jekyll update
 ---
