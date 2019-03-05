@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: MapleSage Inbound Marketing
 email: info@maplesage.com
-description:MapleSage is a full-service, integrated software solution, services, inbound marketing
-and communications agency based out of Gurgaon, Haryana - India.
+description:content="MapleSage is a B2B focused marketing automation agency, helping SME’s to connect with its customers over digital media, create brand awareness, increase conversions and discover a smarter approach to business growth. 
+"
 baseurl: "blog.maplesage.com"  
 url: "https://maplesage.com"   
 twitter_username: MapleSage
