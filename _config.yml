@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: MapleSage Inbound Marketing
 email: info@maplesage.com
-description:content="MapleSage is a B2B focused marketing automation agency, helping SME’s to connect with its customers over digital media, create brand awareness, increase conversions and discover a smarter approach to business growth. 
-"
+description:MapleSage is a B2B focused marketing automation agency, helping SME’s to connect with its customers over digital media, create brand awareness, increase conversions and discover a smarter approach to business growth.
 baseurl: "blog.maplesage.com"  
 url: "https://maplesage.com"   
 twitter_username: MapleSage
